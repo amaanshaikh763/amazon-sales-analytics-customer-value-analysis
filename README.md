@@ -1,3 +1,15 @@
+<p align="center">
+  <img src="images/banner1.png" width="100%">
+</p>
+
+<h1 align="center">
+Amazon Sales Analytics & Customer Value Analysis
+</h1>
+
+<p align="center">
+Customer Segmentation • CLV Analysis • Revenue Insights • Business Intelligence
+</p>
+
 # 📈 Amazon Sales Analytics & Customer Value Analysis
 
 ## Project Overview
