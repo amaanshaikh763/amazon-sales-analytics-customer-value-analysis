@@ -10,8 +10,6 @@ Amazon Sales Analytics & Customer Value Analysis
 Customer Segmentation • CLV Analysis • Revenue Insights • Business Intelligence
 </p>
 
-# 📈 Amazon Sales Analytics & Customer Value Analysis
-
 ## Project Overview
 
 This project analyzes 100,000 Amazon sales transactions to uncover revenue trends, customer purchasing behavior, payment preferences, and customer lifetime value.
